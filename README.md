@@ -75,14 +75,12 @@ This project presents a fail-safe automated system that monitors water levels an
 - Offline data logging  
 
 ---
-
 ## 📁 Project Structure
 fail-safe-borewell-pump-system/
 │
 ├── code/
 ├── images/
-├── README.md
-
+└── README.md
 ---
 
 ## 📌 Conclusion
