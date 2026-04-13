@@ -43,11 +43,11 @@ This project presents a fail-safe automated system that monitors water levels an
 ![Circuit](images/circuit_diagram.png)
 
 ### 🔹 Actual Prototype
-![Setup](images/hardware_setup.jpg)
+![Setup](images/hardware_setup.jpeg)
 ---
 
 ### 📱 Mobile Application (Blynk)
-![App UI](images/blynk_high_level.jpg)
+![App UI](images/blynk_high_level.jpeg)
 ---
 
 ## 🛠️ Tech Stack
