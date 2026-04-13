@@ -77,13 +77,13 @@ This project presents a fail-safe automated system that monitors water levels an
 ---
 ## 📁 Project Structure
 
-```
+
 fail-safe-borewell-pump-system/
 │
 ├── code/
 ├── images/
 └── README.md
-```
+
 
 ---
 
