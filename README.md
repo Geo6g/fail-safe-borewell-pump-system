@@ -1,4 +1,4 @@
-.git# 🚀 Fail-Safe Borewell Pump Automation System
+ 🚀 Fail-Safe Borewell Pump Automation System
 
 ## 📌 Overview
 Borewell pump systems often operate without proper monitoring, leading to dry-run conditions that damage motors, tank overflows that waste water, and inefficient energy usage. 
